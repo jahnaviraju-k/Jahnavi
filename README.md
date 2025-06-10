@@ -58,7 +58,7 @@
 
   <h2> Get in Touch</h2>
   <p>
-    I’m always open to collaborating, exploring new ideas about AI and data! Also looking for full-time opportunities like data analyst, data engineer, data scientist and AI/ML related roles You can reach out to me here:
+    I’m always open to collaborating, exploring new ideas about AI and data! Also looking for full-time opportunities like data analyst, data engineer, data scientist and AI/ML related roles. You can reach out to me here:
   </p>
   <ul>
     <li><strong>Email:</strong> jahnavik338@gmail.com</li>
