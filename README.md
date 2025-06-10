@@ -1,1 +1,71 @@
-# Jahnavi
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body style="font-family: Arial; max-width: 900px; margin: auto; padding: 2rem; line-height: 1.6;">
+  <h1> Hi, I'm Jahnavi</h1>
+
+  <p>
+    I'm a data professional with hands-on experience in <strong>data analysis</strong>, <strong>data engineering</strong>, <strong>machine learning</strong>, and <strong>AI-driven problem solving</strong>. I love transforming raw data into meaningful insights and intelligent solutions. Whether it’s building models, cleaning messy data, or creating explainable AI structures, I bring both curiosity and structure to every project I work on.
+  </p>
+
+  <p>
+    With experience across diverse data roles including data analyst, data scientist, and AI/ML researcher. I’ve developed a strong foundation in working with structured and unstructured data, building end-to-end pipelines, and crafting models that not only work but also make sense to people.
+  </p>
+
+  <hr>
+
+  <h2> Skills & Technologies</h2>
+  <ul>
+    <li><strong>Languages:</strong> Python, R, SQL</li>
+    <li><strong>Libraries & Frameworks:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, Keras, XGBoost, Matplotlib, Seaborn</li>
+    <li><strong>Data Tools:</strong> Jupyter Notebook, Excel, Power BI, Tableau</li>
+    <li><strong>Concepts:</strong> EDA, Supervised Learning, Deep Learning, Data Cleaning, Model Evaluation, Feature Engineering</li>
+    <li><strong>Platforms:</strong> Git, Google Colab, Kaggle, GitHub</li>
+  </ul>
+
+  <hr>
+
+  <h2>Projects</h2>
+
+  <h3>Music Genre Classification</h3>
+  <p>
+    In this project, I explored how well machine learning and deep learning models can classify music genres based on audio features from the Spotify dataset. I worked with over 125 genres and implemented models using Random Forest, XGBoost, and deep neural networks. One of the key challenges I faced was class imbalance and genre overlap, which made the problem really interesting. I used Python, Keras, and Scikit-learn, along with visual tools like Seaborn and Matplotlib, to evaluate results and visualize confusion across genres.
+  </p>
+  <p>
+     <a href="https://github.com/jahnaviraju-k/ML-Project" target="_blank">View Project</a>
+  </p>
+
+  <h3> Tax Lien Sale Analysis (Baltimore)</h3>
+  <p>
+    This was a deep-dive analysis into Baltimore's property market through tax lien certificate sale data. I cleaned and explored the dataset using Excel and Python, and then applied statistical techniques to identify neighborhood trends and investor insights. The project highlighted how data can support both policy decisions and investment strategies. I also used R for a few comparative plots to supplement my Python-based EDA.
+  </p>
+  <p>
+     <a href="https://github.com/jahnaviraju-k/tax-lien-Project" target="_blank">View Project</a>
+  </p>
+
+  <h3> HITL: Human-in-the-Loop Algorithm Taxonomy</h3>
+  <p>
+    This project was about creating a structured way to classify AI algorithms based on how much they involve human input. I contributed to building the HITL (Human-in-the-Loop) dimension within the MAS (Multidimensional Algorithm Structure) framework. I introduced categories like Direct, Indirect, Opaque, and Auto to describe how algorithms interact with humans in different systems  especially in areas where explainability is essential. This work is closely aligned with XAI (Explainable AI) and helps bridge the gap between automation and trust.
+  </p>
+  <p>
+     <a href="https://github.com/jahnaviraju-k/ai-taxonomy" target="_blank">View Project</a>
+  </p>
+
+  <hr>
+
+  <h2> Get in Touch</h2>
+  <p>
+    I’m always open to collaborating, exploring new ideas about AI and data! Also looking for full-time opportunities like data analyst, data engineer, data scientist and AI/ML related roles You can reach out to me here:
+  </p>
+  <ul>
+    <li><strong>Email:</strong> jahnavik338@gmail.com</li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/jahnaviraju-k" target="_blank">github.com/jahnaviraju-k</a></li>
+  </ul>
+
+  <hr>
+  <p style="text-align:center; color: gray;">© 2025 Jahnavi's Portfolio</p>
+</body>
+</html>
